@@ -1,5 +1,5 @@
 
 
-myaVariable = "Hello from python"
-print(myaVariable)
+myVariable = "Hello from python"
+print(myVariable)
 
