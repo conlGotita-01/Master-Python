@@ -9,3 +9,4 @@ print(myVariable)
 myVariable = 5
 
 print(myVariable)
+
