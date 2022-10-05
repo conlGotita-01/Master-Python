@@ -1,5 +1,3 @@
-
-
 myVariable = True
 
 print(myVariable)
@@ -9,6 +7,6 @@ myVariable = 4 > 7
 print(myVariable)
 
 if myVariable:
-    print("El resultado fue verdadero")
+    print("The result is true")
 else: 
-    print("El resultado fue falso")    
+    print("The result is false")    
