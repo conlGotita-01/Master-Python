@@ -2,5 +2,5 @@
 
 
 result = input("Enter your name: ")
-print(result)
+print("Your name is: ", result)
 print("End of program")
